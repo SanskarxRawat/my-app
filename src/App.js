@@ -4,7 +4,7 @@ export default function App()
 {
   return (
     <div>
-      <h1>pavan randi</h1>
+      <h1>pavan randi 2 rs</h1>
     </div>
   );
 }
